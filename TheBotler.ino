@@ -12,7 +12,7 @@
 char ssid[] = "MY WIFI 6539";             // network SSID (name)  
 char pass[] = "";                         // network password is blank
 // Initialize Telegram BOT  
-const char* BotToken = "478849574:AAFc20JHakmfEIHNoVNd_cI-um5w9IOi3No";    // bot token to prevent unauthorised access
+const char* BotToken = "<BOT_TOKEN>?";    // bot token to prevent unauthorised access
 WiFiSSLClient client;
 TelegramBot bot(BotToken,client);  
 TelegramKeyboard botlerKeyboard;
