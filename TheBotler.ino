@@ -1,6 +1,8 @@
 // The Botler v0.3 - EEE527: Embedded Systems 28.11.17
 // Aimee McCart - B00658830
 // Michael Stewart - B00661765
+//
+//Home automation using the Telegram messenger platform and Arduino
 
 #include <WiFi101.h> 
 #include <SPI.h>  
